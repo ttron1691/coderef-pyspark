@@ -178,9 +178,15 @@ df_parquet_3.write.mode("overwrite").parquet("path/to/parquet/file")
 ### Row
 ```Python
 a
+
+## References
+
 ```
 
 ### Column
 ```Python
 a
 ```
+
+## References
+- PySpark API reference: [https://spark.apache.org/docs/latest/api/python/index.html](https://spark.apache.org/docs/latest/api/python/index.html)
